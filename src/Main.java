@@ -8,6 +8,7 @@ public class Main {
 		unModele.insererContact(9, "Hari", "Fari");
 		unModele.afficherBase();
 		unModele.fermerConnexion();
+		System.out.println("ok");
 	}
 
 }
